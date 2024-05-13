@@ -7,8 +7,8 @@
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="" />
 
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="1"/>
 			<!-- STK food -->
@@ -121,8 +121,8 @@
 			<property name="Tags" value="resourceIronHook"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="IronHookIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="1"/>
 			<property name="EconomicValue" value="10"/>
@@ -134,8 +134,8 @@
 			<property name="Tags" value="resourceFishingSpool"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="FishingSpoolIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="1"/>
 			<property name="EconomicValue" value="10"/>
@@ -166,8 +166,8 @@
 			<property name="Tags" value="resourceBluegilFish"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="BluegilIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -179,8 +179,8 @@
 			<property name="Tags" value="resourceCatfish"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="CatfishIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -192,8 +192,8 @@
 			<property name="Tags" value="resourceCrab"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="CrabIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -205,8 +205,8 @@
 			<property name="Tags" value="resourceCrappie"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="CrappieIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -218,8 +218,8 @@
 			<property name="Tags" value="resourceGrouper"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="GrouperIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -231,8 +231,8 @@
 			<property name="Tags" value="resourceLargeMouthBass"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="LargeMouthBassIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -244,8 +244,8 @@
 			<property name="Tags" value="resourceMackerel"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="MackerelIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -257,8 +257,8 @@
 			<property name="Tags" value="resourceOctopus"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="OctopusIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -270,8 +270,8 @@
 			<property name="Tags" value="resourceRedSnapper"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="RedSnapperIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -283,8 +283,8 @@
 			<property name="Tags" value="resourceShad"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="ShadIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -296,8 +296,8 @@
 			<property name="Tags" value="resourceShrimp"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="ShrimpIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -309,8 +309,8 @@
 			<property name="Tags" value="resourceStripedBass"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="StripedBassIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -322,8 +322,8 @@
 			<property name="Tags" value="resourceTrout"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="TroutIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -335,8 +335,8 @@
 			<property name="Tags" value="resourceTuna"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="TunaIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -348,8 +348,8 @@
 			<property name="Tags" value="resourceFishingCoin"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="FishingCoinIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -361,8 +361,8 @@
 			<property name="Tags" value="resourceSeaweed"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="SeaweedIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -374,8 +374,8 @@
 			<property name="Tags" value="resourceOldBoot"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="OldBootIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -390,8 +390,8 @@
 			<property name="CustomIcon" value="Earthworm2Icon" />
 			<property name="DisplayType" value="FishingBait"/>
 
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="150"/>
 			<!-- STK food -->
@@ -420,8 +420,8 @@
 			<property name="CustomIcon" value="GrubBaitIcon" />
 			<property name="DisplayType" value="FishingBait"/>
 
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="150"/>
 			<!-- STK food -->
@@ -450,8 +450,8 @@
 			<property name="CustomIcon" value="DragonflyBaitIcon" />
 			<property name="DisplayType" value="FishingBait"/>
 
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="150"/>
 			<!-- STK food -->
@@ -479,8 +479,8 @@
 			<property name="Tags" value="resourceRawBluegilFishFillet"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="BluegilRawFilletIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -493,8 +493,8 @@
 			<property name="Tags" value="resourceRawCatfishFillet"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="CatfishRawFilletIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -507,8 +507,8 @@
 			<property name="Tags" value="resourceRawCrappieFillet"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="CrappieRawFilletIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -521,8 +521,8 @@
 			<property name="Tags" value="resourceRawGrouperFillet"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="GrouperRawFilletIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -535,8 +535,8 @@
 			<property name="Tags" value="resourceRawLargeMouthBassFillet"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="LargeMouthBassRawFilletIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -549,8 +549,8 @@
 			<property name="Tags" value="resourceRawMackerelFillet"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="MackerelRawFilletIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -563,8 +563,8 @@
 			<property name="Tags" value="resourceRawRedSnapperFillet"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="RedSnapperRawFilletIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -577,8 +577,8 @@
 			<property name="Tags" value="resourceRawStripedBassFillet"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="StripedBassRawFilletIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -591,8 +591,8 @@
 			<property name="Tags" value="resourceRawTroutFillet"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="TroutRawFilletIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -605,8 +605,8 @@
 			<property name="Tags" value="resourceRawTunaFillet"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="TunaRawFilletIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -619,8 +619,8 @@
 			<property name="Tags" value="resourceRawShadRoe"/>
 			<property name="HoldType" value="31"/>
 			<property name="CustomIcon" value="ShadRoeRawIcon" />
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="25"/>
 			<property name="EconomicValue" value="10"/>
@@ -634,8 +634,8 @@
 			<property name="CustomIcon" value="FishFilletGrilledIcon" />
 			<property name="HoldType" value="31"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/>
 			<!-- STK food -->
@@ -662,8 +662,8 @@
 			<property name="CustomIcon" value="MarinatedTunaSteakIcon" />
 			<property name="HoldType" value="31"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/>
 			<!-- STK food -->
@@ -690,8 +690,8 @@
 			<property name="CustomIcon" value="FriedBluegilIcon" />
 			<property name="HoldType" value="31"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/>
 			<!-- STK food -->
@@ -718,8 +718,8 @@
 			<property name="CustomIcon" value="FriedCatfishIcon" />
 			<property name="HoldType" value="31"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/>
 			<!-- STK food -->
@@ -746,8 +746,8 @@
 			<property name="CustomIcon" value="GrilledCrabCakeIcon" />
 			<property name="HoldType" value="31"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/>
 			<!-- STK food -->
@@ -774,8 +774,8 @@
 			<property name="CustomIcon" value="GlazedMackerelIcon" />
 			<property name="HoldType" value="31"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/>
 			<!-- STK food -->
@@ -802,8 +802,8 @@
 			<property name="CustomIcon" value="BlackenedRedSnapperIcon" />
 			<property name="HoldType" value="31"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/>
 			<!-- STK food -->
@@ -830,8 +830,8 @@
 			<property name="CustomIcon" value="ShadRoeAndBaconIcon" />
 			<property name="HoldType" value="31"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/>
 			<!-- STK food -->
@@ -858,8 +858,8 @@
 			<property name="CustomIcon" value="OctopusGrilledIcon" />
 			<property name="HoldType" value="31"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/>
 			<!-- STK food -->
@@ -886,8 +886,8 @@
 			<property name="CustomIcon" value="ShrimpFriedIcon" />
 			<property name="HoldType" value="31"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/>
 			<!-- STK food -->
@@ -914,8 +914,8 @@
 			<property name="CustomIcon" value="FriedTroutIcon" />
 			<property name="HoldType" value="31"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/>
 			<!-- STK food -->
@@ -942,8 +942,8 @@
 			<property name="CustomIcon" value="SearedBassIcon" />
 			<property name="HoldType" value="31"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/>
 			<!-- STK food -->
@@ -970,8 +970,8 @@
 			<property name="CustomIcon" value="RoastedGrouperIcon" />
 			<property name="HoldType" value="31"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/>
 			<!-- STK food -->
@@ -998,8 +998,8 @@
 			<property name="CustomIcon" value="FriedCrappieCakeIcon" />
 			<property name="HoldType" value="31"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/parcelPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/>
 			<!-- STK food -->

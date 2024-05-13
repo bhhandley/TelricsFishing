@@ -225,6 +225,18 @@
 			<ingredient name="foodCornMeal" count="3"/>
 			<ingredient name="resourceAnimalFat" count="6"/>
 		</recipe>
+
+		<!-- Added to match V2 mod -->
+		<recipe name="foodTunaFishGravyToast" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable">
+			<ingredient name="resourceRawTunaFillet" count="1"/>
+			<ingredient name="foodCornMeal" count="1"/>
+			<ingredient name="foodCornBread" count="2"/>
+			<ingredient name="resourceAnimalFat" count="3"/>
+			<ingredient name="foodCanPeas" count="1"/>
+			<effect_group>
+				<passive_effect name="CraftingIngredientCount" level="1,3" operation="base_add" value="-1,-2" tags="resourceAnimalFat"/>
+			</effect_group>
+		</recipe>
 	</append>
 
 </configs>
