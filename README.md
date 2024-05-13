@@ -5,15 +5,15 @@ A fishing modlet for 7 Days to Die by Telric.  Updated for A21.2 and includes an
 
 ---
 ## Credits
-**Mod Site:** https://7daystodiemods.com/telrics-fishing-2-0/  
+**Mod Site:** https://7daystodiemods.com/telrics-fishing/  
 **Forum Page:** https://community.7daystodie.com/topic/26175-telrics-a20-modlets-updated-horses-mod-01182023/
 
 
 
 ---
 ## Changelog
-- Fixed xml warning and error messages caused by Meshfile & DropMeshfile values
-- Replaced tuna can recipe with an alternative Tuna Fish Gravy on Toast recipe since A21 removed empty cans
+- Fixed xml warning and error messages caused by Meshfile & DropMeshfile and trash loot values
+- Added alternative Tuna Fish Gravy on Toast recipe to match V2 version of mod
 
 
 
