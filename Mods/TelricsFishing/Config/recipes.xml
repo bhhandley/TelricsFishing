@@ -23,6 +23,11 @@
 			<ingredient name="resourceWood" count="10"/>
 		</recipe>
 
+        <recipe name="resourceFishingWeight" count="1" craft_time="3">
+            <ingredient name="resourceScrapLead" count="5"/>
+            <ingredient name="resourceClayLump" count="5"/>
+        </recipe>
+		
 		<recipe name="resourceIronHook" count="1" craft_time="3">
 			<ingredient name="resourceFishingWeight" count="3"/>
 			<ingredient name="resourceForgedIron" count="2"/>

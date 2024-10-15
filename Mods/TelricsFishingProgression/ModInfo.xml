@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-	<Name value="TelricsFishingV2A21Progression" />
-	<DisplayName value="Telrics FishingV2 A21 Progression" />
+	<Name value="TelricsFishingProgression" />
+	<DisplayName value="Telrics Fishing Progression" />
 	<Description value="Adds progression and some minor adjustments to Telrics Fishing V2" />
 	<Author value="Mewtiny" />
-	<Version value="1.0" />
+	<Version value="1.1" />
 	<Website value="" />
 </xml>

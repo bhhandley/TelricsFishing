@@ -4,6 +4,7 @@
 
     <!-- Tools -->
     <remove xpath="/recipes/recipe[@name='fishingPoleWood']" />
+    <remove xpath="/recipes/recipe[@name='resourceFishingWeight']" />
     <remove xpath="/recipes/recipe[@name='resourceIronHook']" />
     <remove xpath="/recipes/recipe[@name='resourceFishingSpool']" />
 
@@ -17,16 +18,21 @@
             <ingredient name="resourceDuctTape" count="1"/>
         </recipe>
 
+        <recipe name="resourceFishingWeight" count="1" craft_time="120" craft_area="campfire">
+            <ingredient name="resourceScrapLead" count="5"/>
+            <ingredient name="resourceClayLump" count="5"/>
+        </recipe>
+
         <recipe name="resourceIronHook" count="1" craft_time="190">
-            <ingredient name="resourceFishingWeight" count="3"/>
-            <ingredient name="resourceScrapIron" count="15"/>
+            <ingredient name="resourceFishingWeight" count="1"/>
+            <ingredient name="resourceScrapIron" count="5"/>
         </recipe>
 
         <recipe name="resourceFishingSpool" count="1" craft_time="300">
             <ingredient name="resourceSewingKit" count="3"/>
             <ingredient name="resourceScrapIron" count="5"/>
-            <ingredient name="resourceWood" count="2"/>
-            <ingredient name="resourceScrapPolymers" count="4"/>
+            <ingredient name="resourceWood" count="1"/>
+            <ingredient name="resourceScrapPolymers" count="5"/>
         </recipe>
     </append>
 

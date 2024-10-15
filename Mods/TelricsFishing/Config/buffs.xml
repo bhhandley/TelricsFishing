@@ -87,7 +87,7 @@
 			</effect_group>
 		</buff>
 
-		<buff name="buffFishingCast" hidden="true">
+		<buff name="buffFishingCast" hidden="false" name_key="buffFishingCastName" description_key="buffFishingCastDesc" icon="ui_game_symbol_NotificationFishingIcon">
 			<stack_type value="replace"/>
 			<duration value="0"/>
 			<update_rate value="3" />

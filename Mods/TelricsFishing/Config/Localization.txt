@@ -1,5 +1,5 @@
 Key,english,japanese
-------------------Colors: 
+------------------Colors:
 					Player Text: Beige [deceae]
 					Vendor Trash: [ABABAB]
 					Common Quality: NONE
@@ -7,8 +7,8 @@ Key,english,japanese
 					Rare Quality: [6ABAEB]
 					Epic Quality: [C976F3]
 					Legendary Quality: [DF9B00]
-					
-					Other:Orange [e7a729] Blue [2b87eb] Pink [ffaeee] Light Blue [aee5ff] 
+
+					Other:Orange [e7a729] Blue [2b87eb] Pink [ffaeee] Light Blue [aee5ff]
 ------------------
 ------------------VanillaChanges--------
 perkLivingOffTheLandRank1LongDesc,"Double the harvest of wild or planted crops. Craft seeds for flowers and decorative plants like goldenrod, chrysanthemum, aloe, and yucca.\nFarm plots cost 30% less to craft.\nCraft level 3 fishing rods and increase base catch chance by 3%.\nIncreases chance to find bait by 100%","野生または植えられた作物から入手出来るアイテムの個数が2倍になります。\n\n花などの種がクラフト可能になります。\n(アロエ、菊、アキノキリンソウ、ユッカ)。\n\n耕作区画クラフトに必要な材料の数が30%少なくなります。\nレベル3の釣り竿がクラフト可能になり、基本釣り上げ率が3%上がり、魚が釣れやすくなります。\n魚の餌が見つかる確率が100%上がります。"
@@ -136,6 +136,8 @@ DecorationTackleBoxBlueLoot,"Blue Tackle Box","タックルボックス(青)"
 DecorationTackleBoxBlueLootDesc,"This can be used to store items in.","収納箱として使用できます。"
 
 -----------------Buffs------------------
+buffFishingCastName,"Fishing...","釣り..."
+buffFishingCastDesc,"Waiting for a fish to bite...","魚が食いつくのを待っています..."
 buffFishingCatchName,"Hooked!","かかった！"
 buffFishingCatchDesc,"You've got something hooked! Reel it in with F!","何かがかかりました！　Fキーを連打して釣りあげましょう！"
 buffFishingCompleteName,"Caught!","釣れた！"
